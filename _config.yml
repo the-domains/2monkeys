@@ -1,0 +1,28 @@
+name: 2MONKEYS
+favicon: null
+layout_spectrum: 0.041221186285838485
+typography_spectrum: 0.13792697503231466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3002981310710311
+  lightness: 0.291875857161358
+  saturation: 0.4263763688504696
+  rhythmicContrast: 0.25629259715788066
+purpose: []
